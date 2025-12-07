@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello one
 12
 22
+=======
+1Hello one
+>>>>>>> 03eb73e (Modified some files)
