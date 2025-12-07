@@ -6,3 +6,4 @@ Hello one
 22
 1Hello one
 made a change in remote version
+testing git pull which does both fetching and merging
