@@ -1,5 +1,3 @@
 Hello Two
-<<<<<<< HEAD
 ff
-=======
->>>>>>> 03eb73e (Modified some files)
+
