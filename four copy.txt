@@ -1,0 +1,7 @@
+Hello Two
+<<<<<<<< HEAD:four.txt
+ff
+44
+========
+ff
+>>>>>>>> staging:four copy.txt
